@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-LH8n.mk
+    $(LOCAL_DIR)/twrp_LH8n.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-LH8n-user \
-    omni_TECNO-LH8n-userdebug \
-    omni_TECNO-LH8n-eng
+    twrp_LH8n-user \
+    twrp_LH8n-userdebug \
+    twrp_LH8n-eng
