@@ -24,10 +24,6 @@ PRODUCT_PACKAGES_DEBUG += \
      update_engine_client
 
 PRODUCT_PACKAGES += \
-    bootctrl.mt6833
-    bootctrl.mt6833.recovery
-
-PRODUCT_PACKAGES += \
     otapreopt_script \
     cppreopts.sh \
     update_engine \
