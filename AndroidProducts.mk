@@ -4,10 +4,11 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
+
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_LH8n.mk
+    $(LOCAL_DIR)/twrp_X6711.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_LH8n-user \
-    twrp_LH8n-userdebug \
-    twrp_LH8n-eng
+    twrp_X6711-user \
+    twrp_X6711-userdebug \
+    twrp_X6711-eng

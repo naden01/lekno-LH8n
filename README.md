@@ -1,5 +1,10 @@
-# Android device tree for TECNO TECNO LH8n (TECNO-LH8n)
+# Android device tree for Infinix Infinix X6711 (Infinix-X6711)
 
 ```
-im working blud
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 ```
